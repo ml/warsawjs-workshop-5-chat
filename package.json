@@ -1,0 +1,27 @@
+{
+  "name": "warsawjs-workshop-5-chat",
+  "version": "1.0.0",
+  "description": "Yet another chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ml/warsawjs-workshop-5-chat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ml/warsawjs-workshop-5-chat/issues"
+  },
+  "homepage": "https://github.com/ml/warsawjs-workshop-5-chat#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.2",
+    "js-yaml": "^3.8.3",
+    "level": "^1.6.0",
+    "socket.io": "^1.7.3",
+    "socket.io-client": "^1.7.3",
+    "then-levelup": "^1.0.2"
+  }
+}
